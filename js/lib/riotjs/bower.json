@@ -1,0 +1,24 @@
+{
+  "name": "riotjs",
+  "version": "1.0.1",
+  "homepage": "https://muut.com/riotjs/",
+  "authors": [
+    "Tero Piirainen",
+    "Muut Inc.",
+    "Other contributors"
+  ],
+  "description": "The 1kb client side MVP library",
+  "main": "riot.js",
+  "keywords": [
+    "MVP",
+    "MVC",
+    "framework",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test"
+  ]
+}

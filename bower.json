@@ -1,0 +1,14 @@
+{
+  "name": "todomvc-riotjs",
+  "version": "0.0.1",
+  "authors": [
+    "Boris Huai <xbhuai@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "todomvc-common": "~0.1.9",
+    "jquery": "~2.1.1",
+    "riotjs": "~1.0.1",
+    "requirejs": "*2.1.14"
+  }
+}
